@@ -1,3 +1,9 @@
+Mario,cassidy,Zack
+
+
+
+
+
 load ("/Users/mariowisa/Desktop/B2000/acs2017_ny/acs2017_ny_data.RData")
 attach(acs2017_ny)
 require(AER)
